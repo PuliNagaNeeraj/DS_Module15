@@ -48,12 +48,6 @@ void largest(struct node *root)
    } 
    printf("\nLargest value is %d", root->info); 
 } 
-EX.NO : 3(E) 
-LARGEST ELEMENT IN BST 
-DATE : 
-  
-  
- 
 /* 
  * Main Function 
  */ 
